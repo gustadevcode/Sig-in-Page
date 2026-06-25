@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+
+body {
+    background-color: rgb(194, 115, 115);
+}
+
+.card {
+    border: 2px red solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 160px;
+    width: 250px;
+
+}
